@@ -1,0 +1,11 @@
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\bin\Debug\netcoreapp2.2\Keyvaluetry.deps.json
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\bin\Debug\netcoreapp2.2\Keyvaluetry.runtimeconfig.json
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\bin\Debug\netcoreapp2.2\Keyvaluetry.runtimeconfig.dev.json
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\bin\Debug\netcoreapp2.2\Keyvaluetry.dll
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\bin\Debug\netcoreapp2.2\Keyvaluetry.pdb
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.csprojAssemblyReference.cache
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.csproj.CoreCompileInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.AssemblyInfoInputs.cache
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.AssemblyInfo.cs
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.dll
+C:\Users\mehmetakif.tatar\Desktop\Keyvaluetry\obj\Debug\netcoreapp2.2\Keyvaluetry.pdb
